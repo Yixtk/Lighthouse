@@ -1,4 +1,4 @@
-# 🏮 Lighthouse
+#⚠️ Lighthouse
 
 An interactive survival game built with p5.js where you play as the last lighthouse keeper, guiding ships safely through a dark and dangerous night filled with sea monsters and treacherous reefs.
 
